@@ -58,7 +58,8 @@ I created 2 KNN-based models using 2 different similarity metrics (Cosine Simila
   - RMSE using Pearson Correlation: 1.63
   
 I also use Singular Value Decomposition to perfrom Matrix Factorization. RMSE for this model is 1.55 which is the best out of all 3 models. However, 1.55 out of 5 is still pretty high, so I decided to try Matrix Factorization using Neural Network Embeddings to improve the accuracy.
-**Process:** I created an embedding for the users and one for the restaurants. Then compute dot product between the 
+
+**Process:** I created an embedding for the users and one for the restaurants. Then compute dot product between them is the rating prediction
 
 </br>
 
