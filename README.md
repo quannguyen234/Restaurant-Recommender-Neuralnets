@@ -75,13 +75,15 @@ I tried different techniques like adding layers, add Drop-out, add Regularizatio
     - Kung Fu Thai & Chinese Restaurant
     - Joyful House Chinese Cuisine
     - Shang Artisan Noodles
+ 
  Base on these recommendations, they seem to both like Asian food.
  
 - These 2 users were matched 'l6BmjZMeQD3rDxWUbiAiow’  and ‘LKd_-BT2GMWp8_1ho18kOg’ with a Similarity Score of 0.145. An the recommendations:
     - The Buffet at Bellagio
     - Le Village
     - Paradise Buffet and Cafe
- Base on these recommendations, they seem to like buffet-style restaurant.
+
+Base on these recommendations, they seem to like buffet-style restaurants.
 
 
 
